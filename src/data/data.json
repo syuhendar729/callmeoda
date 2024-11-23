@@ -1,0 +1,135 @@
+{
+    "projects": [
+        {
+            "title": "Portofolio Website",
+            "description": "This is my personal portfolio website application. I developed it from scratch with Reactjs and Bootstrap.",
+            "image": "/projects/porto.png",
+            "linkProject": "/",
+            "linkGithub": "https://github.com/syuhendar729/callmeoda"
+        },
+        {
+            "title": "Goncengan",
+            "description": "This is a mobile application for online motorcycle taxis for students. I developed the backend of the application with Express and Nodejs.",
+            "image": "/projects/goncengan.png",
+            "linkProject": null,
+            "linkGithub": "https://github.com/syuhendar729/goncengan-backend"
+        },
+        {
+            "title": "Periodic Table",
+            "description": "This is a periodic table website application with an interactive display to find out the details of its cells and classification by group. I developed the front-end of this application with Bootstrap.",
+            "image": "/projects/table-periodik.png",
+            "linkProject": "https://sr.cli.rs/table-periodik/",
+            "linkGithub": "https://github.com/syuhendar729/table-periodik"
+        },
+        {
+            "title": "PIK-R Website",
+            "description": "This is a website application for the PIKR (Youth Counseling Center and Information) organization of the Sumatra Institute of Technology. I developed the front-end of this website with Wordpress.",
+            "image": "/projects/web-pikr.png",
+            "linkProject": "https://pikr.itera.ac.id/",
+            "linkGithub": null
+        },
+        {
+            "title": "AuraSkin",
+            "description": "This is an iOS application to detect the ingredients of a skincare product whether it is good for our skin type or not. I as a programmer developed this application with my 4 teammates using SwiftUI, CoreData, and Cosmily API.",
+            "image": "/projects/auraskin.png",
+            "linkProject": null,
+            "linkGithub": "https://github.com/AuroraIL24/AuraSkin"
+        },
+        {
+            "title": "BookChat",
+            "description": "This is an iOS app to help book readers retain information from books they have read. I as a programmer developed this app with my 2 teammates using UiKit and CoreData.",
+            "image": "/projects/bookchat.png",
+            "linkProject": "https://youtu.be/3cu1qlnlGXY",
+            "linkGithub": "https://github.com/SpontanIL24/BookChat"
+        },
+        {
+            "title": "PinBI",
+            "description": "This is a macOS app to help students correct their Indonesian writing. I am here as a programmer who creates the front-end view with SwiftUI, connections with Core Data, and creates a backend server with Nodejs for Prompting to GeminiAPI.",
+            "image": "/projects/pinbi.png",
+            "linkProject": "https://apps.apple.com/id/app/pinbi-app/id6648771961?mt=12",
+            "linkGithub": "https://github.com/syuhendar729/backend-PinBI"
+        },
+        {
+            "title": "Unsummon: Super Scary Game",
+            "description": "This is a fun and horror themed multiplayer iOS game. I am here as a programmer who makes multiplayer connections with Unity, Netcode, and Relay service.",
+            "image": "/projects/unsummon.jpeg",
+            "linkProject": "https://testflight.apple.com/join/uJTZvd5g",
+            "linkGithub": "https://www.instagram.com/fryday.studio/"
+        }
+    ],
+
+    "achievement": [
+        {
+            "title": "Nodejs",
+            "image": "/achievement/nodejs-progate.png",
+            "description": "Nodejs certificate from Progate.",
+            "urlCredential": "https://progate.com/course_certificate/f06d1bd3qm806h"
+        },
+        {
+            "title": "Python",
+            "image": "/achievement/python-progate.png",
+            "description": "Python certificate from Progate.",
+            "urlCredential": "https://progate.com/course_certificate/39a3f880qmmgxy"
+        },
+        {
+            "title": "Pemrograman JavaScript",
+            "image": "/achievement/js-dicoding.png",
+            "description": "JavaScript certificate from Dicoding.",
+            "urlCredential": "https://www.dicoding.com/certificates/N9ZOEMKN8XG5"
+        },
+        {
+            "title": "Backend and Development APIs",
+            "image": "/achievement/be-api-freecodecamp.png",
+            "description": "Backend and Development APIs certificate from Freecodecamp.",
+            "urlCredential": "https://freecodecamp.org/certification/syuhendar729/back-end-development-and-apis"
+        },
+        {
+            "title": "Gemastik Software Development",
+            "image": "/achievement/gemastik-ppl.png",
+            "description": "Participant Software Development division in Gemastik Event 2022.",
+            "urlCredential": "https://drive.google.com/file/d/1D4gXxEOKbxObK9uT6VNKrZTTGbnhnE8P/view?usp=sharing"
+        },
+        {
+            "title": "Favorite Winner LLF Idea",
+            "image": "/achievement/winner-llf.jpg",
+            "description": "Favorite Winner Idea from Lampung Leadership Forum Event.",
+            "urlCredential": "https://drive.google.com/file/d/167QulGA5OKlJ5cK86DjaYZsXcf5G77UJ/view?usp=sharing"
+        },
+        {
+            "title": "Data Visualization",
+            "image": "/achievement/vdata-dicoding.png",
+            "description": "Data Visualization certificate from Dicoding.",
+            "urlCredential": "https://www.dicoding.com/certificates/0LZ02OOMQX65"
+        },
+        {
+            "title": "Computer Lab Assistant",
+            "image": "/achievement/assist-lab-pks.jpg",
+            "description": "Computer lab assistant for subject Computer and Software Knowledge at the Sumatra Institute of Technology.",
+            "urlCredential": "https://drive.google.com/file/d/1mBOgPAfKKXtNV7Vr1KqhhXSSVosYkL6Y/view?usp=sharing"
+        },
+        {
+            "title": "TypeScript",
+            "image": "/achievement/ts-codecademy.png",
+            "description": "TypeScript basic certificate from Codecademy.",
+            "urlCredential": "https://www.codecademy.com/profiles/SyuhadaRantisi/certificates/56fb1e71303e37b643bb1905f31c8a09"
+        },
+        {
+            "title": "Python",
+            "image": "/achievement/python-dicoding.png",
+            "description": "Python certificate from Dicoding.",
+            "urlCredential": "https://www.dicoding.com/certificates/N9ZOM29Q6PG5"
+        },
+        {
+            "title": "Machine Learning",
+            "image": "/achievement/ml-dicoding.png",
+            "description": "Machine Learning basic certificate from Dicoding.",
+            "urlCredential": "https://www.dicoding.com/certificates/6RPN1OW05X2M"
+        },
+        {
+            "title": "Python for Data Science",
+            "image": "/achievement/python-dqlab.png",
+            "description": "Python for Data Science basic certificate from DQlab.",
+            "urlCredential": null
+        }
+    ]
+}
