@@ -22,6 +22,10 @@ function ProjectsPage() {
                             image={project.image}
                             linkProject={project.linkProject}
                             linkGithub={project.linkGithub}
+                            role={project.role}
+                            techStack={project.techStack}
+                            features={project.features}
+                            realaseDate={project.realaseDate}
                         />
                     </Col>
                 ))}

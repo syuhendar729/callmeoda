@@ -25,8 +25,8 @@ function HomePage() {
                 Apple Developer Academy @IL. My experience is a Back-End
                 Developer for Goncengan, Unity Game Developer for Unsummon, and
                 as an iOS Developer at the Apple Developer Academy. I have
-                expertise in Nodejs, Unity Engine, SwiftUI, Firebase, Neovim,
-                and operate the Linux Operating System.
+                expertise in JavaScript, Nodejs, Unity Engine, Python, SwiftUI,
+                Firebase, Neovim, and operate the Linux Operating System.
             </p>
         </Container>
     )

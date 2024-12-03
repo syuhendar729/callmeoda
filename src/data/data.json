@@ -5,56 +5,112 @@
             "description": "This is my personal portfolio website application. I developed it from scratch with Reactjs and Bootstrap.",
             "image": "/projects/porto.png",
             "linkProject": "/",
-            "linkGithub": "https://github.com/syuhendar729/callmeoda"
+            "linkGithub": "https://github.com/syuhendar729/callmeoda",
+            "role": "Frontend Developer",
+            "techStack": "JavaScript, Reactjs, and Bootstrap.",
+            "realaseDate": "Always update",
+            "features": ["Showing project and achievement."]
         },
         {
             "title": "Goncengan",
             "description": "This is a mobile application for online motorcycle taxis for students. I developed the backend of the application with Express and Nodejs.",
             "image": "/projects/goncengan.png",
             "linkProject": null,
-            "linkGithub": "https://github.com/syuhendar729/goncengan-backend"
+            "linkGithub": "https://github.com/syuhendar729/goncengan-backend",
+            "role": "Backend Developer",
+            "techStack": "JavaScript, Nodejs, Express, Payment Gateway (Midtrans), Firebase.",
+            "realaseDate": "September 2023",
+            "features": [
+                "Find the nearest driver.",
+                "Find the nearest passenger."
+            ]
         },
         {
             "title": "Periodic Table",
             "description": "This is a periodic table website application with an interactive display to find out the details of its cells and classification by group. I developed the front-end of this application with Bootstrap.",
             "image": "/projects/table-periodik.png",
             "linkProject": "https://sr.cli.rs/table-periodik/",
-            "linkGithub": "https://github.com/syuhendar729/table-periodik"
+            "linkGithub": "https://github.com/syuhendar729/table-periodik",
+            "role": "Frontend Developer",
+            "techStack": "JavaScript and Bootstrap.",
+            "realaseDate": "May 2021",
+            "features": [
+                "Display detailed information from a cell with a popup modal.",
+                "Classification of elements based on groups."
+            ]
         },
         {
             "title": "PIK-R Website",
             "description": "This is a website application for the PIKR (Youth Counseling Center and Information) organization of the Sumatra Institute of Technology. I developed the front-end of this website with Wordpress.",
             "image": "/projects/web-pikr.png",
             "linkProject": "https://pikr.itera.ac.id/",
-            "linkGithub": null
+            "linkGithub": null,
+            "role": "Frontend Developer",
+            "techStack": "Wordpress.",
+            "realaseDate": "Maret 2024",
+            "features": [
+                "Information about PIK-R organization.",
+                "News Article."
+            ]
         },
         {
             "title": "AuraSkin",
             "description": "This is an iOS application to detect the ingredients of a skincare product whether it is good for our skin type or not. I as a programmer developed this application with my 4 teammates using SwiftUI, CoreData, and Cosmily API.",
             "image": "/projects/auraskin.png",
             "linkProject": null,
-            "linkGithub": "https://github.com/AuroraIL24/AuraSkin"
+            "linkGithub": "https://github.com/AuroraIL24/AuraSkin",
+            "role": "iOS Developer",
+            "techStack": "SwiftUI, CoreData, and Cosmily API.",
+            "realaseDate": "April 2024",
+            "features": [
+                "Detecting ingredient text from skincare products.",
+                "Analyze the ingredients to see if they suit your skin type."
+            ]
         },
         {
             "title": "BookChat",
             "description": "This is an iOS app to help book readers retain information from books they have read. I as a programmer developed this app with my 2 teammates using UiKit and CoreData.",
             "image": "/projects/bookchat.png",
             "linkProject": "https://youtu.be/3cu1qlnlGXY",
-            "linkGithub": "https://github.com/SpontanIL24/BookChat"
+            "linkGithub": "https://github.com/SpontanIL24/BookChat",
+            "role": "iOS Developer",
+            "techStack": "UiKit, AVFoundation, and CoreData.",
+            "realaseDate": "May 2024",
+            "features": [
+                "Chat bot to actively recall information from books that have been read."
+            ]
         },
         {
             "title": "PinBI",
             "description": "This is a macOS app to help students correct their Indonesian writing. I am here as a programmer who creates the front-end view with SwiftUI, connections with Core Data, and creates a backend server with Nodejs for Prompting to GeminiAPI.",
             "image": "/projects/pinbi.png",
             "linkProject": "https://apps.apple.com/id/app/pinbi-app/id6648771961?mt=12",
-            "linkGithub": "https://github.com/syuhendar729/backend-PinBI"
+            "linkGithub": "https://github.com/syuhendar729/backend-PinBI",
+            "role": "MacOS Developer and Backend Developer",
+            "techStack": "SwiftUI, SwiftData, GeminiAPI, Express, and Nodejs.",
+            "realaseDate": "July 2024",
+            "features": ["Analysis of Indonesian writing according to EYD."]
         },
         {
             "title": "Unsummon: Super Scary Game",
             "description": "This is a fun and horror themed multiplayer iOS game. I am here as a programmer who makes multiplayer connections with Unity, Netcode, and Relay service.",
             "image": "/projects/unsummon.jpeg",
             "linkProject": "https://testflight.apple.com/join/uJTZvd5g",
-            "linkGithub": "https://www.instagram.com/fryday.studio/"
+            "linkGithub": "https://www.instagram.com/fryday.studio/",
+            "role": "Game Developer",
+            "techStack": "Unity, Netcode, Relay & Lobby Service, Corehaptics, Gyroscope, and Speech Framework.",
+            "realaseDate": "November 2024",
+            "features": [
+                "Joining Lobby.",
+                "Haptic if in the radius of the ghost.",
+                "Gyroscope in hiden mechanic.",
+                "Speech Recognition in uncurse candle.",
+                "If become a Ghost can kill the children and curse candle.",
+                "If become a Children can activate and uncruse candle.",
+                "If it has been killed it can become a spirit to spectacle.",
+                "Noise in spirit to deceive the ghost.",
+                "Run or jump for increase speed."
+            ]
         }
     ],
 
