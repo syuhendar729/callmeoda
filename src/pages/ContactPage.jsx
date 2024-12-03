@@ -1,4 +1,5 @@
 import { Container, Form, Button } from 'react-bootstrap'
+import { FaGithub, FaInstagram, FaLinkedin, FaEnvelope } from 'react-icons/fa'
 
 function ContactPage() {
     return (
@@ -30,10 +31,64 @@ function ContactPage() {
                     />
                 </Form.Group>
 
-                <Button variant="success" type="submit">
+                <Button variant="success" type="submit" disabled>
                     Submit
                 </Button>
             </Form>
+
+            {/* Social Media Icons */}
+            <div className="d-flex justify-content-center align-items-center mt-4">
+                {/* GitHub */}
+                <a
+                    href="https://github.com/syuhendar729"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                        color: '#333',
+                        margin: '0 15px',
+                        fontSize: '1.5rem',
+                    }}
+                >
+                    <FaGithub />
+                </a>
+                {/* Instagram */}
+                <a
+                    href="https://instagram.com/syuhendar729"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                        color: '#E4405F',
+                        margin: '0 15px',
+                        fontSize: '1.5rem',
+                    }}
+                >
+                    <FaInstagram />
+                </a>
+                {/* LinkedIn */}
+                <a
+                    href="https://linkedin.com/in/syuhendar729"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                        color: '#0A66C2',
+                        margin: '0 15px',
+                        fontSize: '1.5rem',
+                    }}
+                >
+                    <FaLinkedin />
+                </a>
+                {/* Email */}
+                <a
+                    href="mailto:rantisi729@gmail.com"
+                    style={{
+                        color: '#BB001B',
+                        margin: '0 15px',
+                        fontSize: '1.5rem',
+                    }}
+                >
+                    <FaEnvelope />
+                </a>
+            </div>
         </Container>
     )
 }

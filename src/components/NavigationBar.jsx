@@ -9,6 +9,15 @@ function NavigationBar() {
         >
             <Container>
                 <Navbar.Brand as={Link} to="/" className="navbar-text">
+                    <img
+                        src="/logo-gueh.png" // Path ke ikon
+                        alt="Logo"
+                        style={{
+                            width: '50px',
+                            height: '50px',
+                            marginRight: '10px', // Memberi jarak antara ikon dan teks
+                        }}
+                    />
                     Syuhada Rantisi
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
