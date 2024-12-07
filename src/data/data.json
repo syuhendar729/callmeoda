@@ -1,17 +1,6 @@
 {
     "projects": [
         {
-            "title": "Portofolio Website",
-            "description": "This is my personal portfolio website application. I developed it from scratch with Reactjs and Bootstrap.",
-            "image": "/projects/porto.png",
-            "linkProject": "/",
-            "linkGithub": "https://github.com/syuhendar729/callmeoda",
-            "role": "Frontend Developer",
-            "techStack": "JavaScript, Reactjs, and Bootstrap.",
-            "realaseDate": "Always update",
-            "features": ["Showing project and achievement."]
-        },
-        {
             "title": "Goncengan",
             "description": "This is a mobile application for online motorcycle taxis for students. I developed the backend of the application with Express and Nodejs.",
             "image": "/projects/goncengan.png",
@@ -37,6 +26,20 @@
             "features": [
                 "Display detailed information from a cell with a popup modal.",
                 "Classification of elements based on groups."
+            ]
+        },
+        {
+            "title": "Invisible Maze Game",
+            "description": "This is an invisible maze game where players are required to memorize the walls of the maze in a short time, then the walls will disappear and the player must run the object to reach the finish.",
+            "image": "/projects/invisible-maze.jpeg",
+            "linkProject": "https://invisible-maze-sr.vercel.app",
+            "linkGithub": "https://github.com/syuhendar729/invisible-maze-sr",
+            "role": "Frontend Developer",
+            "techStack": "JavaScript, CSS, and ReactJS",
+            "realaseDate": "August 2024",
+            "features": [
+                "Makes the wall disappear within a specified time.",
+                "Makes the player able to move with the arrow keys."
             ]
         },
         {

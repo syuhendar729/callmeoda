@@ -27,7 +27,7 @@ function ProjectCard({
     return (
         <>
             {/* Card */}
-            <Card className="bg-dark text-light" style={{ width: '18rem' }}>
+            <Card className="bg-dark text-light" style={{ width: '20rem' }}>
                 <Card.Img
                     variant="top"
                     src={image}
@@ -38,24 +38,14 @@ function ProjectCard({
                 <Card.Body>
                     <Card.Title>{title}</Card.Title>
                     <Card.Text>{description}</Card.Text>
-                    <Container className="me-2 ms-4">
+                    <Container className="d-flex flex-column">
                         <Button
                             variant="primary"
-                            href={linkProject}
-                            className="m-2"
-                            target="_blank"
+                            onClick={handleShow}
+                            className="m-auto"
                             rel="noopener noreferrer"
                         >
-                            Project
-                        </Button>
-                        <Button
-                            variant="success"
-                            href={linkGithub}
-                            className="m-2"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            Github
+                            Detail
                         </Button>
                     </Container>
                 </Card.Body>
@@ -78,7 +68,7 @@ function ProjectCard({
                         alt={title}
                         style={{
                             width: '100%',
-                            height: 'auto',
+                            height: '100%',
                             borderRadius: '5px',
                             marginBottom: '15px',
                         }}
@@ -103,6 +93,16 @@ function ProjectCard({
 
                     <h5>Realase Date</h5>
                     <p>{realaseDate}</p>
+
+                    <h5>Github Link</h5>
+                    <p>{linkGithub}</p>
+
+                    <h5>App Link</h5>
+                    <p>
+                        {linkProject != null
+                            ? linkProject
+                            : 'App not yet publishing!'}
+                    </p>
                 </Modal.Body>
             </Modal>
         </>
