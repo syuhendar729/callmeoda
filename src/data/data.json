@@ -15,6 +15,23 @@
             ]
         },
         {
+            "title": "Login System",
+            "description": "This is my backend and frontend login system application to fulfill the entry task in the PT.DCAA interview.",
+            "image": "/projects/login-system.jpeg",
+            "linkProject": null,
+            "linkGithub": "https://github.com/syuhendar729/backend-dcaa (Frontend)\nhttps://github.com/syuhendar729/frontend-dcaa (Backend)",
+            "role": "Fullstack Developer (Frontend and Backend)",
+            "techStack": "Python, Flask, Mysql, JavaScript, Reactjs, Redux, AntD, Nginx, and Docker.",
+            "realaseDate": "November 2024",
+            "features": [
+                "Register user.",
+                "Login user.",
+                "Update user profile, username, and password.",
+                "Delete account."
+            ]
+        },
+
+        {
             "title": "Periodic Table",
             "description": "This is a periodic table website application with an interactive display to find out the details of its cells and classification by group. I developed the front-end of this application with Bootstrap.",
             "image": "/projects/table-periodik.png",
@@ -98,7 +115,7 @@
             "title": "Unsummon: Super Scary Game",
             "description": "This is a fun and horror themed multiplayer iOS game. I am here as a programmer who makes multiplayer connections with Unity, Netcode, and Relay service.",
             "image": "/projects/unsummon.jpeg",
-            "linkProject": "https://testflight.apple.com/join/uJTZvd5g",
+            "linkProject": "https://apps.apple.com/id/app/unsummon-super-scary-game/id6736444254",
             "linkGithub": "https://www.instagram.com/fryday.studio/",
             "role": "Game Developer",
             "techStack": "Unity, Netcode, Relay & Lobby Service, Corehaptics, Gyroscope, and Speech Framework.",
