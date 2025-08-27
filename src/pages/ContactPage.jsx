@@ -53,7 +53,7 @@ function ContactPage() {
                 </a>
                 {/* Instagram */}
                 <a
-                    href="https://instagram.com/syuhendar729"
+                    href="https://instagram.com/callmeoda"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{

@@ -131,6 +131,51 @@
                 "Noise in spirit to deceive the ghost.",
                 "Run or jump for increase speed."
             ]
+        },
+        {
+            "title": "EcoPoin",
+            "description": "An application that helps people find the nearest landfill and earn points for their waste.",
+            "image": "/projects/ecopoin.png",
+            "linkProject": "",
+            "linkGithub": "-",
+            "role": "IOS Developer",
+            "techStack": "SwiftUI.",
+            "realaseDate": "Januari 2025",
+            "features": [
+                "Tracks nearby trash dumps.",
+                "Awards points to the person who created the trash."
+            ]
+        },
+        {
+            "title": "QuranLingo",
+            "description": "This is an application to improve understanding of the verses of the Quran using the Quiz method like the Duolingo application.",
+            "image": "/projects/quranlingo.png",
+            "linkProject": "https://www.figma.com/proto/8BOsSYkRr8LaErBLdZ4vcX/DAQ-MTQMI-(MOCKUP)?node-id=55-2029&t=2CwYXaLTmfTo3hG2-1",
+            "linkGithub": "-",
+            "role": "UI/UX Designer",
+            "techStack": "Figma and Canva.",
+            "realaseDate": "April 2025",
+            "features": [
+                "Quiz feature to test understanding of Quran verses.",
+                "Multiple Choice Quiz Text",
+                "Multiple Choice Quiz Audio",
+                "Word Matching Text",
+                "Word Matching Audio"
+            ]
+        },
+        {
+            "title": "Qalamini",
+            "description": "This is game-based application that helps children learn to write hijaiyah letters.",
+            "image": "https://qalamini.github.io/mockup-ipad.png",
+            "linkProject": "https://qalamini.github.io/",
+            "linkGithub": "-",
+            "role": "Game Developer",
+            "techStack": "Unity, Python, and Figma.",
+            "realaseDate": "June 2025",
+            "features": [
+                "AI-Based Handwriting Detection.",
+                "Gamification such as scores, lives, wins and losses, levels, and leaderboards."
+            ]
         }
     ],
 
@@ -205,6 +250,30 @@
             "title": "Python for Data Science",
             "image": "/achievement/python-dqlab.png",
             "description": "Python for Data Science basic certificate from DQlab.",
+            "urlCredential": null
+        },
+        {
+            "title": "Apple Developer Academy",
+            "image": "/achievement/ada.jpg",
+            "description": "Become a learner from the Apple Developer Academy at InfiniteLearning Batam.",
+            "urlCredential": null
+        },
+        {
+            "title": "Best ABATA Committee",
+            "image": "/achievement/terbaik-abata.png",
+            "description": "Becoming the best committee in TPA teaching activities, namely ABATA (Aksi Bina TPA).",
+            "urlCredential": null
+        },
+        {
+            "title": "University Expo Speakers",
+            "image": "/achievement/pemateri-expo.jpg",
+            "description": "Becoming a speaker at a University Expo with material on Informatics Engineering.",
+            "urlCredential": null
+        },
+        {
+            "title": "The best PIK-R Recruitment Participants.",
+            "image": "/achievement/terbaik-ca-pikr.png",
+            "description": "Become the best recruitment participant in the University PIK-R organization.",
             "urlCredential": null
         }
     ]
