@@ -181,6 +181,30 @@
 
     "achievement": [
         {
+            "title": "3rd Place Mandiri Star Scholarship Social Project",
+            "image": "/achievement/bbm-juara3.jpg",
+            "description": "Become the 3rd place winner in the Mandiri Star Scholarship Social Project.",
+            "urlCredential": "https://drive.google.com/drive/folders/1zhbb48__St79JMsLubJJtCvWDR1bh3NU"
+        },
+		{
+            "title": "1st DAQ MTQM ITERA",
+            "image": "/achievement/juara1-daq.jpg",
+            "description": "Become the 1st place winner in MTQM ITERA division Desain Aplikasi Komputer Al-Quran.",
+            "urlCredential": "https://drive.google.com/drive/folders/1AvTVsHItncFlFGTasQRiCWGzuC74IOuA"
+        },
+        {
+            "title": "Apple Developer Academy",
+            "image": "/achievement/ada.jpg",
+            "description": "Become a learner from the Apple Developer Academy at InfiniteLearning Batam.",
+            "urlCredential": null
+        },
+		{
+            "title": "Participant DAQ MTQMN 2025",
+            "image": "/achievement/daq.jpg",
+            "description": "Become participant in Desain Aplikasi Komputer Al-Quran in MTQMN 2025.",
+            "urlCredential": "https://drive.google.com/drive/folders/104vulwjZR8XjAhx7_FylCVlcQztNwuj0"
+        },
+        {
             "title": "Nodejs",
             "image": "/achievement/nodejs-progate.png",
             "description": "Nodejs certificate from Progate.",
@@ -253,12 +277,6 @@
             "urlCredential": null
         },
         {
-            "title": "Apple Developer Academy",
-            "image": "/achievement/ada.jpg",
-            "description": "Become a learner from the Apple Developer Academy at InfiniteLearning Batam.",
-            "urlCredential": null
-        },
-        {
             "title": "Best ABATA Committee",
             "image": "/achievement/terbaik-abata.png",
             "description": "Becoming the best committee in TPA teaching activities, namely ABATA (Aksi Bina TPA).",
@@ -275,6 +293,13 @@
             "image": "/achievement/terbaik-ca-pikr.png",
             "description": "Become the best recruitment participant in the University PIK-R organization.",
             "urlCredential": null
+        },
+        {
+            "title": "SALAM Speakers",
+            "image": "/achievement/pemateri-salam.jpeg",
+            "description": "Becoming a speaker at event SALAM (Sapa Langsung Maba Muslim).",
+            "urlCredential": null
         }
+
     ]
 }
