@@ -40,6 +40,13 @@ function NavigationBar() {
                         >
                             Achievement
                         </Nav.Link>
+						<Nav.Link
+                            as={Link}
+                            to="/blog"
+                            className="navbar-text pe-3"
+                        >
+                            Blog
+                        </Nav.Link>
                         <Nav.Link
                             as={Link}
                             to="/contact"
@@ -47,6 +54,7 @@ function NavigationBar() {
                         >
                             Contact
                         </Nav.Link>
+
                     </Nav>
                 </Navbar.Collapse>
             </Container>
