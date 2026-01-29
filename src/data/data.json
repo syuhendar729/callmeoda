@@ -2,183 +2,77 @@
     "projects": [
         {
             "title": "Goncengan",
+            "slug": "goncengan",
             "description": "This is a mobile application for online motorcycle taxis for students. I developed the backend of the application with Express and Nodejs.",
-            "image": "/projects/goncengan.png",
-            "linkProject": null,
-            "linkGithub": "https://github.com/syuhendar729/goncengan-backend",
-            "role": "Backend Developer",
-            "techStack": "JavaScript, Nodejs, Express, Payment Gateway (Midtrans), Firebase.",
-            "realaseDate": "September 2023",
-            "features": [
-                "Find the nearest driver.",
-                "Find the nearest passenger."
-            ]
+            "image": "/projects/goncengan.png"
         },
         {
             "title": "Login System",
+            "slug": "login-system",
             "description": "This is my backend and frontend login system application to fulfill the entry task in the PT.DCAA interview.",
-            "image": "/projects/login-system.jpeg",
-            "linkProject": null,
-            "linkGithub": "https://github.com/syuhendar729/backend-dcaa (Frontend)\nhttps://github.com/syuhendar729/frontend-dcaa (Backend)",
-            "role": "Fullstack Developer (Frontend and Backend)",
-            "techStack": "Python, Flask, Mysql, JavaScript, Reactjs, Redux, AntD, Nginx, and Docker.",
-            "realaseDate": "November 2024",
-            "features": [
-                "Register user.",
-                "Login user.",
-                "Update user profile, username, and password.",
-                "Delete account."
-            ]
+            "image": "/projects/login-system.jpeg"
         },
-
         {
             "title": "Periodic Table",
+            "slug": "periodic-table",
             "description": "This is a periodic table website application with an interactive display to find out the details of its cells and classification by group. I developed the front-end of this application with Bootstrap.",
-            "image": "/projects/table-periodik.png",
-            "linkProject": "https://sr.cli.rs/table-periodik/",
-            "linkGithub": "https://github.com/syuhendar729/table-periodik",
-            "role": "Frontend Developer",
-            "techStack": "JavaScript and Bootstrap.",
-            "realaseDate": "May 2021",
-            "features": [
-                "Display detailed information from a cell with a popup modal.",
-                "Classification of elements based on groups."
-            ]
+            "image": "/projects/table-periodik.png"
         },
         {
             "title": "Invisible Maze Game",
+            "slug": "invisible-maze-game",
             "description": "This is an invisible maze game where players are required to memorize the walls of the maze in a short time, then the walls will disappear and the player must run the object to reach the finish.",
-            "image": "/projects/invisible-maze.jpeg",
-            "linkProject": "https://invisible-maze-sr.vercel.app",
-            "linkGithub": "https://github.com/syuhendar729/invisible-maze-sr",
-            "role": "Frontend Developer",
-            "techStack": "JavaScript, CSS, and ReactJS",
-            "realaseDate": "August 2024",
-            "features": [
-                "Makes the wall disappear within a specified time.",
-                "Makes the player able to move with the arrow keys."
-            ]
+            "image": "/projects/invisible-maze.jpeg"
         },
         {
             "title": "PIK-R Website",
+            "slug": "pik-r-website",
             "description": "This is a website application for the PIKR (Youth Counseling Center and Information) organization of the Sumatra Institute of Technology. I developed the front-end of this website with Wordpress.",
-            "image": "/projects/web-pikr.png",
-            "linkProject": "https://pikr.itera.ac.id/",
-            "linkGithub": null,
-            "role": "Frontend Developer",
-            "techStack": "Wordpress.",
-            "realaseDate": "Maret 2024",
-            "features": [
-                "Information about PIK-R organization.",
-                "News Article."
-            ]
+            "image": "/projects/web-pikr.png"
         },
         {
             "title": "AuraSkin",
+            "slug": "auraskin",
             "description": "This is an iOS application to detect the ingredients of a skincare product whether it is good for our skin type or not. I as a programmer developed this application with my 4 teammates using SwiftUI, CoreData, and Cosmily API.",
-            "image": "/projects/auraskin.png",
-            "linkProject": null,
-            "linkGithub": "https://github.com/AuroraIL24/AuraSkin",
-            "role": "iOS Developer",
-            "techStack": "SwiftUI, CoreData, and Cosmily API.",
-            "realaseDate": "April 2024",
-            "features": [
-                "Detecting ingredient text from skincare products.",
-                "Analyze the ingredients to see if they suit your skin type."
-            ]
+            "image": "/projects/auraskin.png"
         },
         {
             "title": "BookChat",
+            "slug": "bookchat",
             "description": "This is an iOS app to help book readers retain information from books they have read. I as a programmer developed this app with my 2 teammates using UiKit and CoreData.",
-            "image": "/projects/bookchat.png",
-            "linkProject": "https://youtu.be/3cu1qlnlGXY",
-            "linkGithub": "https://github.com/SpontanIL24/BookChat",
-            "role": "iOS Developer",
-            "techStack": "UiKit, AVFoundation, and CoreData.",
-            "realaseDate": "May 2024",
-            "features": [
-                "Chat bot to actively recall information from books that have been read."
-            ]
+            "image": "/projects/bookchat.png"
         },
         {
             "title": "PinBI",
+            "slug": "pinbi",
             "description": "This is a macOS app to help students correct their Indonesian writing. I am here as a programmer who creates the front-end view with SwiftUI, connections with Core Data, and creates a backend server with Nodejs for Prompting to GeminiAPI.",
-            "image": "/projects/pinbi.png",
-            "linkProject": "https://apps.apple.com/id/app/pinbi-app/id6648771961?mt=12",
-            "linkGithub": "https://github.com/syuhendar729/backend-PinBI",
-            "role": "MacOS Developer and Backend Developer",
-            "techStack": "SwiftUI, SwiftData, GeminiAPI, Express, and Nodejs.",
-            "realaseDate": "July 2024",
-            "features": ["Analysis of Indonesian writing according to EYD."]
+            "image": "/projects/pinbi.png"
         },
         {
             "title": "Unsummon: Super Scary Game",
+            "slug": "unsummon",
             "description": "This is a fun and horror themed multiplayer iOS game. I am here as a programmer who makes multiplayer connections with Unity, Netcode, and Relay service.",
-            "image": "/projects/unsummon.jpeg",
-            "linkProject": "https://apps.apple.com/id/app/unsummon-super-scary-game/id6736444254",
-            "linkGithub": "https://www.instagram.com/fryday.studio/",
-            "role": "Game Developer",
-            "techStack": "Unity, Netcode, Relay & Lobby Service, Corehaptics, Gyroscope, and Speech Framework.",
-            "realaseDate": "November 2024",
-            "features": [
-                "Joining Lobby.",
-                "Haptic if in the radius of the ghost.",
-                "Gyroscope in hiden mechanic.",
-                "Speech Recognition in uncurse candle.",
-                "If become a Ghost can kill the children and curse candle.",
-                "If become a Children can activate and uncruse candle.",
-                "If it has been killed it can become a spirit to spectacle.",
-                "Noise in spirit to deceive the ghost.",
-                "Run or jump for increase speed."
-            ]
+            "image": "/projects/unsummon.jpeg"
         },
         {
             "title": "EcoPoin",
+            "slug": "ecopoin",
             "description": "An application that helps people find the nearest landfill and earn points for their waste.",
-            "image": "/projects/ecopoin.png",
-            "linkProject": "",
-            "linkGithub": "-",
-            "role": "IOS Developer",
-            "techStack": "SwiftUI.",
-            "realaseDate": "Januari 2025",
-            "features": [
-                "Tracks nearby trash dumps.",
-                "Awards points to the person who created the trash."
-            ]
+            "image": "/projects/ecopoin.png"
         },
         {
             "title": "QuranLingo",
+            "slug": "quranlingo",
             "description": "This is an application to improve understanding of the verses of the Quran using the Quiz method like the Duolingo application.",
-            "image": "/projects/quranlingo.png",
-            "linkProject": "https://www.figma.com/proto/8BOsSYkRr8LaErBLdZ4vcX/DAQ-MTQMI-(MOCKUP)?node-id=55-2029&t=2CwYXaLTmfTo3hG2-1",
-            "linkGithub": "-",
-            "role": "UI/UX Designer",
-            "techStack": "Figma and Canva.",
-            "realaseDate": "April 2025",
-            "features": [
-                "Quiz feature to test understanding of Quran verses.",
-                "Multiple Choice Quiz Text",
-                "Multiple Choice Quiz Audio",
-                "Word Matching Text",
-                "Word Matching Audio"
-            ]
+            "image": "/projects/quranlingo.png"
         },
         {
             "title": "Qalamini",
+            "slug": "qalamini",
             "description": "This is game-based application that helps children learn to write hijaiyah letters.",
-            "image": "https://qalamini.github.io/mockup-ipad.png",
-            "linkProject": "https://qalamini.github.io/",
-            "linkGithub": "-",
-            "role": "Game Developer",
-            "techStack": "Unity, Python, and Figma.",
-            "realaseDate": "June 2025",
-            "features": [
-                "AI-Based Handwriting Detection.",
-                "Gamification such as scores, lives, wins and losses, levels, and leaderboards."
-            ]
+            "image": "https://qalamini.github.io/mockup-ipad.png"
         }
     ],
-
     "achievement": [
         {
             "title": "3rd Place Mandiri Star Scholarship Social Project",
@@ -186,7 +80,7 @@
             "description": "Become the 3rd place winner in the Mandiri Star Scholarship Social Project.",
             "urlCredential": "https://drive.google.com/drive/folders/1zhbb48__St79JMsLubJJtCvWDR1bh3NU"
         },
-		{
+        {
             "title": "1st DAQ MTQM ITERA",
             "image": "/achievement/juara1-daq.jpg",
             "description": "Become the 1st place winner in MTQM ITERA division Desain Aplikasi Komputer Al-Quran.",
@@ -198,7 +92,7 @@
             "description": "Become a learner from the Apple Developer Academy at InfiniteLearning Batam.",
             "urlCredential": null
         },
-		{
+        {
             "title": "Participant DAQ MTQMN 2025",
             "image": "/achievement/daq.jpg",
             "description": "Become participant in Desain Aplikasi Komputer Al-Quran in MTQMN 2025.",
@@ -300,6 +194,5 @@
             "description": "Becoming a speaker at event SALAM (Sapa Langsung Maba Muslim).",
             "urlCredential": null
         }
-
     ]
 }

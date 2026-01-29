@@ -1,17 +1,17 @@
 import { useParams, Link } from "react-router-dom";
 import { Container } from "react-bootstrap";
 import ReactMarkdown from "react-markdown";
-import { getAllBlog } from "../utils/getPosts";
+import { getAllProjects } from "../utils/getPosts";
 
-export default function BlogDetail() {
+export default function ProjectsDetail() {
     const { slug } = useParams();
-    const post = getAllBlog().find((p) => p.slug === slug);
+    const post = getAllProjects().find((p) => p.slug === slug);
 
     if (!post) {
         return (
             <Container className="mt-5 text-center">
-                <p>Artikel tidak ditemukan 😢</p>
-                <Link to="/blog">← Kembali ke Blog</Link>
+                <p>Projects tidak ditemukan 😢</p>
+                <Link to="/projects">← Kembali ke Projects</Link>
             </Container>
         );
     }
@@ -29,7 +29,7 @@ export default function BlogDetail() {
             </div>
 
             <div className="mt-5 mb-3">
-                <Link to="/blog">← Kembali ke List Blog</Link>
+                <Link to="/projects">← Kembali ke List Blog</Link>
             </div>
 
             {/* Content */}

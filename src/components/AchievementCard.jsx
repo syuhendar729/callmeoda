@@ -10,32 +10,32 @@ function AchievementCard({ title, description, image, urlCredential }) {
 
     return (
         <>
-            <Card style={{ width: '18rem' }} className="bg-dark text-light">
+            <Card className="card-gruvbox comic-neue-regular" style={{ width: '20rem' }}>
                 <Card.Img
                     variant="top"
                     src={image}
                     onClick={handleShow}
-                    className="project-card-img"
+                    className="card-gruvbox-img"
                     style={{ cursor: 'pointer' }}
                 />
-                <Card.Body className="d-flex flex-column justify-content-between">
-                    <Card.Title>{title}</Card.Title>
-                    <Card.Text>{description}</Card.Text>
-                    <Container className="d-flex flex-column">
+                <Card.Body className="d-flex flex-column">
+                    <Card.Title className="card-gruvbox-title mb-3">{title}</Card.Title>
+                    <Card.Text className="card-gruvbox-text flex-grow-1">{description}</Card.Text>
+                    <Container className="d-flex flex-column mt-3 p-0">
                         <Button
-                            variant="warning"
                             href={urlCredential}
-                            className="mt-auto"
+                            className="card-gruvbox-btn w-100"
                             target="_blank"
+                            disabled={!urlCredential}
                         >
-                            Credential
+                            {urlCredential ? 'View Credential' : 'No Credential'}
                         </Button>
                     </Container>
                 </Card.Body>
             </Card>
 
             {/* Modal */}
-            <Modal show={show} onHide={handleClose} centered>
+            <Modal show={show} onHide={handleClose} centered className="modal-gruvbox">
                 <Modal.Header closeButton>
                     <Modal.Title>{title}</Modal.Title>
                 </Modal.Header>
@@ -46,7 +46,7 @@ function AchievementCard({ title, description, image, urlCredential }) {
                         style={{
                             width: '100%',
                             height: 'auto',
-                            borderRadius: '5px',
+                            borderRadius: '8px',
                         }}
                     />
                 </Modal.Body>

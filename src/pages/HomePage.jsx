@@ -20,13 +20,7 @@ function HomePage() {
 
             <h3>Only Student</h3>
             <p className="custom-font-20">
-                I am undergraduate student majoring in Informatics Engineering
-                at the Sumatra Institute of Technology and a Learner at the
-                Apple Developer Academy @IL. My experience is a Back-End
-                Developer for Goncengan, Unity Game Developer for Unsummon, and
-                as an iOS Developer at the Apple Developer Academy. I have
-                expertise in JavaScript, Nodejs, Unity Engine, Python, SwiftUI,
-                Firebase, Neovim, and operate the Linux Operating System.
+               I am undergraduate student majoring in Informatics Engineering at the Sumatra Institute of Technology and a Learner at the Apple Developer Academy @IL. My working experience is a Backend Developer for Goncengan, Backend Developer for PinBi, Game Developer for Unsummon, iOS Developer for AuraSkin and BookChat, and Project Manager in Qalamini and SumateranRoar. My organizational experience is a Chairman, Treasury, and Head in several division. I have expertise in Videographer, Content Creator, Financial Manager,  JavaScript, Nodejs, Express, ReactJS, Unity, SwiftUI, Firebase, and operate the Linux Operating System.
             </p>
         </Container>
     )
