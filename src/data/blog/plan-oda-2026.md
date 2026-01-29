@@ -1,6 +1,6 @@
 ---
 title: My Plan in 2026
-date: 24, Januari 2026
+date: 24 Januari, 2026
 slug: plan-oda-2026
 excerpt: Jadi temen-temen, pada artikel ini gua akan menjelaskan apa saja yang akan menjadi plan gua di tahun 2026 ini.  
 ---
@@ -42,7 +42,9 @@ Nah buat ini rencana mau gua cari tim yang bisa developnya dan bisa mengelola bi
 #### Plan keenam: Mutqin 15 Juz
 Ini bakal jadi plan gua yang kontinyu karna rencana deket gua mau gua ikutin ke Hifzil MTQMN nanti di tahun depan. Kalaupun tidak ya bekel aja buat di akhirat nanti.
 
+
 Thats it, thats all.  
 Thanks.
+
 
 

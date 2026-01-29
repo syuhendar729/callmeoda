@@ -1,110 +1,39 @@
-import React, { useState } from 'react'
-import { Button, Card, Container, Modal } from 'react-bootstrap'
+import { Button, Card, Container } from 'react-bootstrap'
+import { useNavigate } from 'react-router-dom'
 
-function ProjectCard({
-    title,
-    description,
-    image,
-    linkProject,
-    linkGithub,
-    role,
-    techStack,
-    features,
-    realaseDate,
-}) {
-    const [show, setShow] = useState(false)
 
-    // Handle modal visibility
-    const handleShow = () => setShow(true)
-    const handleClose = () => setShow(false)
+function ProjectCard({ data }) {
+    const navigate = useNavigate()
 
-    if (role == null) role = 'No Data'
-    if (realaseDate == null) realaseDate = 'No Data'
-    if (techStack == null) techStack = ['No Data']
-    if (features == null) features = ['No Data', 'No Data']
-    console.log(techStack)
+    const handleDetailClick = () => {
+        navigate(`/projects/${data.slug}`)
+    }
 
     return (
         <>
             {/* Card */}
-            <Card className="bg-dark text-light" style={{ width: '20rem' }}>
+            <Card className="card-gruvbox comic-neue-regular" style={{ width: '20rem' }}>
                 <Card.Img
                     variant="top"
-                    src={image}
-                    className="project-card-img"
-                    onClick={handleShow} // Open modal on click
-                    style={{ cursor: 'pointer' }} // Add pointer cursor for clarity
+                    src={data.image}
+                    className="card-gruvbox-img"
+                    style={{ cursor: 'pointer' }}
+                    onClick={handleDetailClick}
                 />
-                <Card.Body>
-                    <Card.Title>{title}</Card.Title>
-                    <Card.Text>{description}</Card.Text>
-                    <Container className="d-flex flex-column">
+                <Card.Body className="d-flex flex-column">
+                    <Card.Title className="card-gruvbox-title mb-3">{data.title}</Card.Title>
+                    <Card.Text className="card-gruvbox-text flex-grow-1">{data.description}</Card.Text>
+                    <Container className="d-flex flex-column mt-3 p-0">
                         <Button
-                            variant="primary"
-                            onClick={handleShow}
-                            className="m-auto"
-                            rel="noopener noreferrer"
+                            onClick={handleDetailClick}
+                            className="card-gruvbox-btn w-100"
                         >
-                            Detail
+                            View Details
                         </Button>
                     </Container>
                 </Card.Body>
             </Card>
 
-            {/* Modal */}
-            <Modal
-                show={show}
-                onHide={handleClose}
-                centered
-                className="comic-neue-regular"
-            >
-                <Modal.Header closeButton>
-                    <Modal.Title>{title}</Modal.Title>
-                </Modal.Header>
-                <Modal.Body>
-                    {/* Gambar */}
-                    <img
-                        src={image}
-                        alt={title}
-                        style={{
-                            width: '100%',
-                            height: '100%',
-                            borderRadius: '5px',
-                            marginBottom: '15px',
-                        }}
-                    />
-
-                    {/* Detail Proyek */}
-                    <h5>Description</h5>
-                    <p>{description}</p>
-
-                    <h5>Role</h5>
-                    <p>{role}</p>
-
-                    <h5>Technology & Frameworks</h5>
-                    <p>{techStack}</p>
-
-                    <h5>Features</h5>
-                    <ul>
-                        {features.map((feature, index) => (
-                            <li key={index}>{feature}</li>
-                        ))}
-                    </ul>
-
-                    <h5>Realase Date</h5>
-                    <p>{realaseDate}</p>
-
-                    <h5>Github Link</h5>
-                    <p>{linkGithub}</p>
-
-                    <h5>App Link</h5>
-                    <p>
-                        {linkProject != null
-                            ? linkProject
-                            : 'App not yet publishing!'}
-                    </p>
-                </Modal.Body>
-            </Modal>
         </>
     )
 }

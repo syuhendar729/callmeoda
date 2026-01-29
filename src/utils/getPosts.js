@@ -1,5 +1,11 @@
 // src/utils/getPosts.js
-const posts = import.meta.glob("../posts/*.md", {
+const blog = import.meta.glob("../data/blog/*.md", {
+    eager: true,
+    as: "raw",
+});
+
+
+const projects = import.meta.glob("../data/projects/*.md", {
     eager: true,
     as: "raw",
 });
@@ -20,8 +26,8 @@ function parseFrontmatter(raw) {
     return { data, content };
 }
 
-export function getAllPosts() {
-    return Object.entries(posts).map(([path, raw]) => {
+export function getAllBlog() {
+    return Object.entries(blog).map(([path, raw]) => {
         const { data, content } = parseFrontmatter(raw);
 
         return {
@@ -31,3 +37,17 @@ export function getAllPosts() {
         };
     });
 }
+
+export function getAllProjects() {
+    return Object.entries(projects).map(([path, raw]) => {
+        const { data, content } = parseFrontmatter(raw);
+
+        return {
+            ...data,
+            content,
+            slug: data.slug || path.split("/").pop().replace(".md", ""),
+        };
+    });
+}
+
+

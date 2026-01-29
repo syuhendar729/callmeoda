@@ -16,17 +16,7 @@ function ProjectsPage() {
                         lg={4}
                         className="d-flex align-items-stretch mb-4 ps-5"
                     >
-                        <ProjectCard
-                            title={project.title}
-                            description={project.description}
-                            image={project.image}
-                            linkProject={project.linkProject}
-                            linkGithub={project.linkGithub}
-                            role={project.role}
-                            techStack={project.techStack}
-                            features={project.features}
-                            realaseDate={project.realaseDate}
-                        />
+                        <ProjectCard data={project} />
                     </Col>
                 ))}
             </Row>
