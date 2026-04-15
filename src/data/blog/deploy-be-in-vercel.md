@@ -25,6 +25,9 @@ Berikut adala link videonya:
 style="margin-bottom: 50px;"></iframe>
 
 
+[![Video Saya](https://img.youtube.com/vi/BuIhsqWYKaw/0.jpg)](https://www.youtube.com/embed/BuIhsqWYKaw)
+
+
 Nah, kemudian setelah project itu selesai gua sempat ada trouble lagi dengan project lain. Projectnya adalah project API Firebase yang mana kita membutuhkan sebuah file `ServiceAccountKey.json` yang berisi credential kita. Padahal ketika kita push ke github kita tidak mau file tersebut ikut terbawa. Akhirnya disini gua mencari cara yang agak tricky untuk berhasil mendeploy-nya.
 
 Cara yang gua gunakan adalah dengan memasukkan satu-satu environment variable yang kita inputkan di Vercel sebelum mendeploy project. Kemudian environment variable tersebut gua panggil dengan `process.env.NAMA_VAR` di file konfigurasi yang tidak ada credential-nya.
