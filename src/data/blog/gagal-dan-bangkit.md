@@ -2,7 +2,7 @@
 title: Gagal dan Bangkit
 date: 8 Juli, 2023
 slug: gagal-dan-bangkit
-excerpt: Semua orang pastinya pernah merasakan kegagalan. Mau itu dulu, sekarang, ataupun nanti.
+excerpt: <Rangkum Video> Semua orang pastinya pernah merasakan kegagalan. Mau itu dulu, sekarang, ataupun nanti.
 ---
 
 
