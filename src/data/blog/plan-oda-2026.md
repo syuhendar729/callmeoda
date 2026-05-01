@@ -39,7 +39,11 @@ BTW benefitnya sih yang gua liat lumayan ya, daripada yang Apple Academy biasa i
 Idenya adalah Printer Box buat di Itera.
 Nah buat ini rencana mau gua cari tim yang bisa developnya dan bisa mengelola bisnisnya.
 
-#### Plan keenam: Mutqin 15 Juz
+#### Plan keenam: Seminar Proposal
+Rencananya gua di semester 7 nanti sudah selesai Seminar Proposal jadi semester 8 tinggal Seminar Hasil saja. 
+Untuk project TA yang mau gua buat rencananya adalah aplikasi mobile yang nantinya juga akan gua lombakan di event Gemastik.
+
+#### Plan ketujuh: Mutqin 15 Juz
 Ini bakal jadi plan gua yang kontinyu karna rencana deket gua mau gua ikutin ke Hifzil MTQMN nanti di tahun depan. Kalaupun tidak ya bekel aja buat di akhirat nanti.
 
 

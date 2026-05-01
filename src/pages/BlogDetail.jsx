@@ -2,6 +2,7 @@ import { useParams, Link } from "react-router-dom";
 import { Container } from "react-bootstrap";
 import ReactMarkdown from "react-markdown";
 import { getAllBlog } from "../utils/getPosts";
+import rehypeRaw from "rehype-raw";
 
 export default function BlogDetail() {
     const { slug } = useParams();
@@ -34,7 +35,7 @@ export default function BlogDetail() {
 
             {/* Content */}
             <div className="blog-content pb-5">
-                <ReactMarkdown>
+                <ReactMarkdown rehypePlugins={[rehypeRaw]}>
                     {post.content}
                 </ReactMarkdown>
             </div>
