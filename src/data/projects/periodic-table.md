@@ -29,7 +29,7 @@ JavaScript and Bootstrap.
 May 2021
 
 #### Github Link
-https://github.com/syuhendar729/table-periodik
+<https://github.com/syuhendar729/table-periodik>
 
 #### App Link
-https://sr.cli.rs/table-periodik/
+<https://sr.cli.rs/table-periodik/>

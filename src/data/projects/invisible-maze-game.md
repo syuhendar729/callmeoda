@@ -29,7 +29,7 @@ JavaScript, CSS, and ReactJS
 August 2024
 
 #### Github Link
-https://github.com/syuhendar729/invisible-maze-sr
+<https://github.com/syuhendar729/invisible-maze-sr>
 
 #### App Link
-https://invisible-maze-sr.vercel.app
+<https://invisible-maze-sr.vercel.app>

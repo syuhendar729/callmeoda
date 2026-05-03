@@ -29,7 +29,7 @@ UiKit, AVFoundation, and CoreData.
 May 2024
 
 #### Github Link
-https://github.com/SpontanIL24/BookChat
+<https://github.com/SpontanIL24/BookChat>
 
 #### App Link
-https://youtu.be/3cu1qlnlGXY
+<https://youtu.be/3cu1qlnlGXY>

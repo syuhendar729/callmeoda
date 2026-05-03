@@ -71,6 +71,12 @@
             "slug": "qalamini",
             "description": "This is game-based application that helps children learn to write hijaiyah letters.",
             "image": "https://qalamini.github.io/mockup-ipad.png"
+        },
+        {
+            "title": "SumateranRoar",
+            "slug": "sumateran-roar",
+            "description": "This is an asymmetrical 4 vs 1 multiplayer game, where 4 humans trapped in the jungle must find a way out from being chased by a Sumatran tiger.",
+            "image": "/projects/sumateran-roar.jpeg"
         }
     ],
     "achievement": [

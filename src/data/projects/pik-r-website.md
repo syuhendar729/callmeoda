@@ -32,4 +32,4 @@ Maret 2024
 -
 
 #### App Link
-https://pikr.itera.ac.id/
+<https://pikr.itera.ac.id/>

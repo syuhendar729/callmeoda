@@ -30,7 +30,7 @@ SwiftUI, CoreData, and Cosmily API.
 April 2024
 
 #### Github Link
-https://github.com/AuroraIL24/AuraSkin
+<https://github.com/AuroraIL24/AuraSkin>
 
 #### App Link
 -

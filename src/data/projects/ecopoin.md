@@ -29,7 +29,7 @@ SwiftUI.
 Januari 2025
 
 #### Github Link
--
+<https://github.com/syuhendar729/EcoPoin>
 
 #### App Link
 -

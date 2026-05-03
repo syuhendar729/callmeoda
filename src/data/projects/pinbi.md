@@ -29,7 +29,7 @@ SwiftUI, SwiftData, GeminiAPI, Express, and Nodejs.
 July 2024
 
 #### Github Link
-https://github.com/syuhendar729/backend-PinBI
+<https://github.com/syuhendar729/backend-PinBI>
 
 #### App Link
-https://apps.apple.com/id/app/pinbi-app/id6648771961?mt=12
+<https://apps.apple.com/id/app/pinbi-app/id6648771961?mt=12>
