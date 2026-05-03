@@ -28,6 +28,10 @@ Anime ini sebenernya ceritanya sederhana, tapi alurnya lumayan kompleks dan maju
 
 Terus MC atau Hero nya ada siapa aja sih?
 
+
+![Alt text](/blog/hero-tobeherox.webp "Cover")
+
+
 1. Nice (Lin Ling)
 
     Nice ini sebenernya udah mati di episode pertama gara-gara bundir, terus digantiin Lin Ling (orang biasa) yang kebetulan mirip sama Nice dan ada di TKP. 
@@ -73,11 +77,6 @@ Terus MC atau Hero nya ada siapa aja sih?
     Nah ini nih hero yang paling misterius diantara hero hero lainnya. Dia nih namanya juga gada yang tau, trus ga terkiat dengan agensi atau asosiasi manapun, dan backstory nya cuma nyeritain dia 1 episode, tapi masih dengan banyak teka-teki. Cuma kayaknya dia ini hero yang baik lah gitu, karna sempet menyelamatkan beberapa hero lainnya dari kematian gitu. Contohnya dia sempet nyelamatin Nice dan AHU. Kekuatan si X ini dia bisa ngebuat ilusi dengan jentikan jarinya. Jujur masih kurang paham sama kekuatan aslinya, tapi yang jelas setiap ngelawan hero apapun, dia cuma jentikin jari sekali langsung bisa kalah lawannya.
 
 
-Di bawah ini coba gw tampilin gambar-gambar heronya biar kebayang.
-
-
-![Alt text](/blog/hero-tobeherox.webp "Cover")
-
 ---
 Oke selanjutnya adalah beberapa kelebihan dan kekurangan anime To Be Hero X.
 
@@ -92,6 +91,12 @@ Kekurangan:
 
 
 ---
+
+Mungkin satu hikmah yang bisa gw ambil dari anime ini:  
+_"Kepercayaan orang itu bisa hilang sewaktu-waktu, tapi tidak dengan dampak yang diberikan ke mereka, so jangan berhenti berbuat baik ke siapapun, because from someone you can get everyone."_
+
+---
+
 
 Akhir kata:
 

@@ -2,7 +2,7 @@
 title: Belajar Negosiasi
 date: 1 Februari 2026
 slug: belajar-negosiasi
-excerpt: <Rangkum Video> Jadi di sini gua mau merangkum hal yang gua pelajari untuk bernegosiasi. Referensinya ini gua ambil dari youtube-nya Raymond Chind.
+excerpt: <Rangkum Video> Jadi di sini gw mau merangkum hal yang gw pelajari untuk bernegosiasi. Referensinya ini gw ambil dari youtube-nya Raymond Chind.
 ---
 
 > Note: Blog ini adalah rangkuman dari apa yang gw pelajari di videonya Raymond Chind mengenai teknik negosiasi. Rangkuman gw buat dengan bantuan ChatGPT untuk memperbaiki ketidakjelasan dan memperbagus tampilan markdown. 
@@ -35,7 +35,7 @@ Ulangi kata penting dari lawan bicara.
 Membuat lawan merasa didengar tanpa terlihat menginterogasi.
 
 **Contoh:**
-> Lawan: “Kemarin gua lagi sedih banget karena kelewatan kesempatan daftar magang.”  
+> Lawan: “Kemarin gw lagi sedih banget karena kelewatan kesempatan daftar magang.”  
 > Kita: “Daftar magang?”
 
 Efeknya: mereka akan lanjut cerita dengan sendirinya.
@@ -117,7 +117,7 @@ Efeknya:
 
 ---
 
-### 7. Guarantee Execution
+### 7. gwrantee Execution
 Pastikan kesepakatan benar-benar terjadi.
 
 **Tips:**

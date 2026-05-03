@@ -83,9 +83,8 @@ Terus akhirnya dia pamit sama si Fulana (istrinya) sama anaknya, dan ini momen b
 
 ---
 
-Nah jadi hikmahnya itu adalah:
-
-“Kesempatan kedua yang sebenarnya bukan mengulang masa lalu, tetapi memperbaiki diri di masa sekarang untuk masa yang akan mendatang.”
+Nah jadi hikmahnya itu:  
+_"Kesempatan kedua yang sebenarnya bukan mengulang masa lalu, tetapi memperbaiki diri di masa sekarang untuk masa yang akan mendatang."_
 
 Thats it, thats all.  
 Thanks.
