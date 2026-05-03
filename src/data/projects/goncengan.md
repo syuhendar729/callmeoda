@@ -29,7 +29,7 @@ JavaScript, Nodejs, Express, Payment Gateway (Midtrans), Firebase.
 September 2023
 
 #### Github Link
-https://github.com/syuhendar729/goncengan-backend
+<https://github.com/syuhendar729/goncengan-backend>
 
 #### App Link
 -

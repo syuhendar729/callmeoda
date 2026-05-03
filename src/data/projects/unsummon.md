@@ -35,7 +35,7 @@ Unity, Netcode, Relay & Lobby Service, Corehaptics, Gyroscope, and Speech Framew
 - November 2024
 
 #### Github Link
-https://www.instagram.com/fryday.studio/
+<https://www.instagram.com/fryday.studio/>
 
 #### App Link
-https://apps.apple.com/id/app/unsummon-super-scary-game/id6736444254
+<https://apps.apple.com/id/app/unsummon-super-scary-game/id6736444254>

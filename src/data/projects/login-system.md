@@ -31,8 +31,8 @@ Python, Flask, Mysql, JavaScript, Reactjs, Redux, AntD, Nginx, and Docker.
 November 2024
 
 #### Github Link
-https://github.com/syuhendar729/backend-dcaa (Frontend)
-https://github.com/syuhendar729/frontend-dcaa (Backend)
+<https://github.com/syuhendar729/backend-dcaa> (Frontend)  
+<https://github.com/syuhendar729/frontend-dcaa> (Backend)
 
 #### App Link
 -

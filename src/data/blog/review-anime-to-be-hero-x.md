@@ -45,11 +45,11 @@ Terus MC atau Hero nya ada siapa aja sih?
 3. AHU
 
     AHU ini sebenernya anjing, tapi karna kebetulan dia itu menyelamatkan seseorang gitu, nah akhirnya jadi populer lah dia di masyarakat.
-    Terus dia tiba tiba jadi makin kuat dan sampai bisa ngomong kayak manusia karna trust value nya itu naik. Terus akhirnya sampai dia jadi hero terkuat yang menduduking **ranking 8**.
+    Terus dia tiba tiba jadi makin kuat dan sampai bisa ngomong kayak manusia karna trust value nya itu naik. Terus akhirnya sampai dia jadi hero terkuat yang menduduki **ranking 8**.
 
 4. Lucky Cyan
 
-    Lucy artinya keberuntungan. Jadi dia adalah Hero dengan kemampuan keberuntungan. Dia juga pas masih kecil beruntung saat terjadi kecelakaan pesawat, karna hanya dia yang hidup saat itu. Nah terus sekarang itu dia jadi penyanyi dan terkenal, makanya makin naik trust value dia sampai bisa mendudukin **ranking 7**.
+    Lucy artinya keberuntungan. Jadi dia adalah Hero dengan kemampuan keberuntungan. Dia juga pas masih kecil beruntung saat terjadi kecelakaan pesawat, karna hanya dia yang hidup saat itu. Nah terus sekarang itu dia jadi penyanyi dan terkenal, makanya makin naik trust value dia sampai bisa menduduki **ranking 7**.
 
 5. Loli
 
@@ -81,13 +81,13 @@ Terus MC atau Hero nya ada siapa aja sih?
 Oke selanjutnya adalah beberapa kelebihan dan kekurangan anime To Be Hero X.
 
 Kelebihan:
-- Grafiknya bagus banget 3D bercampur 2D dengan kombinasi music yang pas
-- Ceritanya tidak bertele-tele, langsung ke point permasalahan dan action
+- Grafiknya bagus banget 3D bercampur 2D dengan kombinasi music yang pas.
+- Ceritanya tidak bertele-tele, langsung ke point permasalahan dan action.
 
 Kekurangan:
-- Terlalu banyak arc jadi nya harus inget tiap-tiap arc tersebut biar nyambung di arc berikutnya
-- Hampir di setiap akhir arc masih ada pertanyaan yang belum terjawab (maybe di next season, tapi kayak nanggung aja gitu)
-- Terlalu banyak MC jadinya ngebuat bingung mau dukung yang mana
+- Terlalu banyak arc jadi nya harus inget tiap-tiap arc tersebut biar nyambung di arc berikutnya.
+- Hampir di setiap akhir arc masih ada pertanyaan yang belum terjawab (maybe di next season, tapi kayak nanggung aja gitu).
+- Terlalu banyak MC jadinya ngebuat bingung mau dukung yang mana.
 
 
 ---
