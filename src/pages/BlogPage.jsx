@@ -3,7 +3,9 @@ import { Link } from "react-router-dom";
 import { getAllBlog } from "../utils/getPosts";
 
 function BlogPage() {
-    const posts = getAllBlog();
+    // const posts = getAllBlog();
+    const posts = getAllBlog().filter((p) => p.publish != "false");
+
 
     return (
         <Container

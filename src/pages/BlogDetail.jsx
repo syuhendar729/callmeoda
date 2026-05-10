@@ -17,6 +17,7 @@ export default function BlogDetail() {
         );
     }
 
+
     return (
         <Container
             className="comic-neue-regular mt-5"

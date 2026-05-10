@@ -1,6 +1,6 @@
 ---
 title: SumateranRoar
-date: 20 Desember, 2024
+date: 20 Desember, 2025
 slug: sumateran-roar
 summary: SumateranRoar adalah game...  
 show: true
