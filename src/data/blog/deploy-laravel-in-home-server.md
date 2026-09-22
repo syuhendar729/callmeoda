@@ -41,6 +41,23 @@ Clone project dari github ke home server.
 ```
 git clone https://github.com/syuhendar729/HadirinAja-BE
 ```
+
+Habis itu masuk ke project nya dan composer install dulu:
+```
+composer install --no-dev --optimize-autoloader
+
+```
+Generate APP Key dulu (nanti masuk ke .env)
+
+```
+
+# Key APP Generate
+
+php artisan key:generate
+
+```
+
+
 ---
 
 ### 5. Pindahkan ke /var/www
@@ -55,7 +72,7 @@ sudo mv HadirinAja-BE /var/www
 
 ### 6. Konfigurasi apache2
 
-Di `/etc/apache2/site-available2/hadirinaja.conf`
+Di `/etc/apache2/site-available/hadirinaja.conf`
 
 ```bash
 <VirtualHost *:81>
@@ -85,7 +102,9 @@ Jalankan:
 
 ```
 sudo a2enmod rewrite
+sudo a2ensite hadirinaja.conf
 sudo systemctl restart apache2
+sudo ufw allow 81
 ```
 
 ---
@@ -162,6 +181,7 @@ Buka browser dan akses: `http://192.168.18.186`
 Sesuaikan saja dengan IP home server tersebut.
 
 ---
+
 
 
 ### Error Log
